@@ -1,0 +1,22 @@
+{
+  "name": "async_demo",
+  "version": "0.0.1",
+  "description": "demonstration of asynchronous programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "async",
+    "programming",
+    "beginner",
+    "level",
+    "demo"
+  ],
+  "author": "Puran B Kalapala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
